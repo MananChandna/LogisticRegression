@@ -28,27 +28,13 @@
     </ul>
   </section>
   
-  <section>
-    <h2>Installation</h2>
-    <p>To run this project locally, follow these steps:</p>
-    <ol>
-      <li>Clone the repository: <code>git clone https://github.com/yourusername/yourrepository.git</code></li>
-      <li>Navigate to the project directory.</li>
-      <li>Install dependencies: <code>pip install -r requirements.txt</code></li>
-    </ol>
-  </section>
-  
-  <section>
-    <h2>Usage</h2>
-    <p>To train and test the logistic regression model:</p>
-    <pre><code>python train.py</code></pre>
-    <p>To visualize the model performance:</p>
-    <pre><code>python visualize.py</code></pre>
-  </section>
+ 
   
   <section>
     <h2>Contributing</h2>
     <p>Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.</p>
   </section>
+  <h2>Contact</h2>
+    <p>If you have any questions or suggestions regarding this project, feel free to contact me via <a href="https://www.linkedin.com/in/manan-chandna-697588257/">LinkedIn</a>.</p>
 </body>
 </html>

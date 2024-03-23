@@ -1,4 +1,6 @@
 # LogisticRegression
+![image](https://github.com/MananChandna/LogisticRegression/assets/139998502/f44c2f08-39e6-4880-86b0-2bb249974dc2)
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

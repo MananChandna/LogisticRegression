@@ -1,6 +1,5 @@
 # LogisticRegression
-![image](https://github.com/MananChandna/LogisticRegression/assets/139998502/362f2aa2-3aae-48a8-aa04-971169625a82)
-
+![image](https://github.com/MananChandna/LogisticRegression/assets/139998502/197551cb-d302-49a5-97e8-75e1ed61faf6)
 
 
 <!DOCTYPE html>
